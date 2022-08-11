@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Mada:wght@400;700&family=Montserrat:wght@400;700&family=Palanquin:wght@400;700&display=swap');
+
+:root {
+  --background: #ebebeb;
+  --Montserrat: Montserrat, 'sans-serif';
+  --Palanquin: Palanquin, 'sans-serif';
+  --blue: #183465;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  border: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+};
+
+html {
+  heigth: 100vh;
+}
+
+body {
+  background-color: var(--background);
+}
